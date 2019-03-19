@@ -1,0 +1,4 @@
+# of sentences tokenized correctly: 0
+# of sentences tokenized incorrectly: 10
+
+accuracy: 0%
